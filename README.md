@@ -42,7 +42,6 @@ JWT_SECRET=your_jwt_secret_key
 
 
 ### 6. **Usage**
-   Explain how to use the app, such as accessing routes or functionalities.
 
 ```md
 ## Usage
