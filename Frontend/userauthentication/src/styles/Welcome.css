@@ -1,0 +1,36 @@
+/* Container styling */
+.welcome-container {
+    position: relative;
+    padding: 20px;
+    text-align: center;
+    height: 100vh; /* Take full height of the viewport */
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Center text vertically and horizontally */
+}
+
+/* Logout button styling */
+.logout {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    background-color: #ff4b4b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 1000; /* Ensure the button stays on top of other content */
+}
+
+.logout:hover {
+    background-color: #ff1a1a;
+}
+
+/* Welcome text animation */
+.welcome-text {
+    font-size: 3em;
+    color: #2fcf3d;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
