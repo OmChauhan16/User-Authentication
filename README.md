@@ -15,7 +15,7 @@ This is a full-stack authentication application built using the MERN stack (Mong
 1. Clone the repository:
 
    ```bash
-   git clone [(https://github.com/OmChauhan16/User-Authentication.git)]
+   git clone [https://github.com/OmChauhan16/User-Authentication.git]
    cd User-Authentication
    
 Install dependencies for the backend:
@@ -38,9 +38,7 @@ JWT_SECRET=your_jwt_secret_key
    Run backend:
    npm start
    
-## Running the Project
-
-1. Start the MongoDB service on your local machine:
+# Start the MongoDB service on your local machine:
 
 
 ### 6. **Usage**
